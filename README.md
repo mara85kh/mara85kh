@@ -11,6 +11,13 @@ I've started my career in 2010 with the launching of Kinect for XBOX 360 at Micr
 - 🔭 I’m currently finishing my training at BeCode.org
 - 🌱 Learning  more about and studying on Front & Back End Dev
 - 💬 Start a conversation with me in French 🇫🇷, Dutch 🇳🇱, English 🇺🇸 or if you're adventurous Khmer 🇰🇭	
-- 📫 You can reach me at mara.um@gmail.com
 - Interests: CrossFit 🏋️‍♀️,  Yoga 🧘‍♂️, Slow Food 🥗, Travel ✈️ & Mostly Bad Jokes 🥁 
 
+---
+
+### Let's get in touch
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/mara-um/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mara.um@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
